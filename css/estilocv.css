@@ -17,5 +17,33 @@ height: 1000px;
 background-color:black;
 }  
 .avatar{
+  width: 100px;
+  height: 50px;
+  background-color:red ;
+}
 
+.topodireita1{
+  width: 100px;
+  height: 50px;
+  background-color:royalblue ;
+}
+.topodireita2{
+  width: 100px;
+  height: 50px;
+  background-color:yellowgreen ;
+}
+.central{
+  width: 300px;
+  height: 250px;
+  background-color:rgb(231, 232, 238) ;
+}
+.gitlink{
+  width: 100px;
+  height: 50px;
+  background-color:rgb(97, 96, 90) ;
+}
+.rodape{
+  width: 300px;
+  height: 20px;
+  background-color:limegreen
 }
