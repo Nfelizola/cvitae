@@ -1,0 +1,21 @@
+/* ===== ESTE BLOCO FAZ UM RESET, OU SEJA GARANTE QUE ALGUNS ATRIBUTOS
+ESTEJAM ZERADOS E LIVRES DE ATRIBUTOS PADRÃ•ES DO NAVEGADOR =====*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+* {
+
+    padding: 0;
+    margin: 0;
+    vertical-align: none;
+    list-style: none;
+    border: 0;
+    color:darkblue;
+    text-decoration: none;
+  } 
+.main{
+width: 600px;
+height: 100%;
+background-color: rgb(106, 108, 111);
+}  
+.avatar{
+
+}
